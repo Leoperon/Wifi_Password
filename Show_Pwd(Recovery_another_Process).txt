@@ -1,0 +1,6 @@
+cd/
+netsh
+netsh>wlan show profile
+
+
+netsh>wlan show profile <**Name_Of_Wifi**> NetVN key=clear
